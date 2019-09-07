@@ -1,0 +1,8 @@
+<% if (theme.analytics_umeng){ %>
+<!-- 友盟统计 -->
+<script type="text/javascript">
+    var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_<%= theme.analytics_umeng %>'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/stat.php%3Fid%3D<%= theme.analytics_umeng %>' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- End 友盟统计 -->
+<% } %>
