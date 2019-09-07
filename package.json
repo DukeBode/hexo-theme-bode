@@ -1,5 +1,9 @@
 {
-  "name": "hexo-theme-landscape",
-  "version": "0.0.2",
-  "private": true
+  "name": "hexo-theme-bode",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Hexo 主题",
+  "repository": "git@github.com:DukeBode/hexo-theme-bode.git",
+  "author": "DukeBode <Duke123@aliyun.com>",
+  "license": "BSD 3-Clause"
 }

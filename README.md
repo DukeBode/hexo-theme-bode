@@ -1,4 +1,4 @@
-# Landscape
+# 博德 bode
 
 A brand new default theme for [Hexo].
 
