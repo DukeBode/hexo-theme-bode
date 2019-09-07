@@ -1,3 +1,6 @@
+# BODE
+TCP:
+ 
 # Header
 menu:
   Home: /
@@ -30,8 +33,10 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
-gauges_analytics:
+analytics_umeng:
+analytics_baidu:
+analytics_google:
+analytics_gauges:
 favicon: /favicon.png
 twitter:
 fb_admins:
