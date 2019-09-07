@@ -1,34 +1,31 @@
 # 博德 bode
 
-
-A brand new default theme for [Hexo].
-
-- [Preview](https://hexojs.github.io/hexo-theme-landscape/)
-
+## 开发日志
+- 添加百度、友盟网站统计代码
 ## Installation
 
 ### Install
 
 ``` bash
-$ git clone --depth 1 https://github.com/hexojs/hexo-theme-landscape themes/landscape
+$ git clone --depth 1 https://github.com/hexojs/hexo-theme-bode themes/bode
 ```
 
 **Landscape requires Hexo 2.4 and above.** If you would like to enable the RSS, the [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) plugin is also required.
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `landscape`.
+Modify `theme` setting in `_config.yml` to `bode`.
 
 ``` diff
 _config.yml
 - theme: some-theme
-+ theme: landscape
++ theme: bode
 ```
 
 ### Update
 
 ``` bash
-cd themes/landscape
+cd themes/bode
 git pull
 ```
 
