@@ -7,14 +7,14 @@ title: Hexo
 subtitle:
 description:
 keywords:
-author: John Doe
-language: en
+author: Duke Bode
+language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://dukebode.github.io
-root: /hexo-theme-bode
+root: /hexo-theme-bode/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
