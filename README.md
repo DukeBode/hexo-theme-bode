@@ -1,6 +1,6 @@
-# 博德 bode
+# hexo-theme-bode
 
-[中文](#) | [English]()
+[中文](#) | [English](#)
 
 - [x] 百度统计
 - [x] 友盟统计
