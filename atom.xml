@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hexo-theme-bode/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://dukebode.github.io/"/>
   <updated>2019-09-07T06:57:35.618Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://dukebode.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/09/07/hello-world/"/>
-    <id>http://yoursite.com/2019/09/07/hello-world/</id>
+    <link href="https://dukebode.github.io/2019/09/07/hello-world/"/>
+    <id>https://dukebode.github.io/2019/09/07/hello-world/</id>
     <published>2019-09-07T06:57:35.618Z</published>
     <updated>2019-09-07T06:57:35.618Z</updated>
     
