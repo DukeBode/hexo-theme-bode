@@ -81,4 +81,3 @@ deploy:
   type: git
   repo: git@github.com:DukeBode/hexo-theme-bode.git
   branch: gh-pages
-
