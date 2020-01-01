@@ -15,6 +15,8 @@ $ git clone --depth 1 https://github.com/hexojs/hexo-theme-bode themes/bode
 ```
 
 **Bode requires Hexo 2.4 and above.** If you would like to enable the RSS, the [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) plugin is also required.
+[hexo-generator-sitemap]
+[hexo-deployer-git]
 
 ### Enable
 
